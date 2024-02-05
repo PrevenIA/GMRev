@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img style="vertical-align:middle" height="200"
-  src="./docs/_static/imgs/logo.png">
-</h1>
 <p align="center">
   <i>Framework de evaluación de sistemas de Generación Mejorada por Recuperación (GMR)</i>
 </p>
