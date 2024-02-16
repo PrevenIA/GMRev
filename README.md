@@ -11,7 +11,7 @@
     <p>
 </h4>
 
-> GMRev es una librería...
+> GMRev es una librería preparada para la evaluación de bancos de datos de sistemas de pregunta/respuesta generados por grandes modelos de lenguaje (LLM - Large Language Model en inglés) en castellano. Se puede adaptar a las necesidades de los usuarios añadiendo métricas propias y fijando el modelo que acutará como evaluador.
 
 ## Instalación
 
