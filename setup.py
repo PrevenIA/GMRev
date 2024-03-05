@@ -1,10 +1,11 @@
 import pathlib
 from setuptools import find_packages, setup
 import os
+
 with open('README.md', 'r', encoding='utf-8-sig') as fh:
     LONG_DESCRIPTION = fh.read()
 
-VERSION = '0.0.27' #Muy importante, hay que ir cambiand o la versión según vayamos mejorando la librería
+VERSION = '0.1.4' #Muy importante, hay que ir cambiand o la versión según vayamos mejorando la librería
 PACKAGE_NAME = 'GMRev' #Debe coincidir con el nombre de la carpeta 
 AUTHOR = 'Pablo Ascorbe Fernández'
 AUTHOR_EMAIL = 'paascorb@unirioja.es'
